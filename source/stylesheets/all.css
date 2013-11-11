@@ -1,0 +1,24 @@
+body {
+  font-family: 'Didact Gothic', sans-serif;
+  align: center;        
+  margin: auto;
+  width: 1000px;
+  background-color: #FFFFFF;
+  text-color: #000000;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
